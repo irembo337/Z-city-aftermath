@@ -1,0 +1,1 @@
+-- Job categories are created dynamically by zcity_darkrp_npc_shop.

@@ -1,0 +1,10 @@
+{
+  "title": "ZCity DarkRP NPC Shop",
+  "type": "servercontent",
+  "tags": ["roleplay", "fun"],
+  "ignore": [
+    "*.psd",
+    "*.tmp",
+    ".git/*"
+  ]
+}
