@@ -1,2 +1,0 @@
--- Z-City jobs are managed dynamically by zcity_darkrp_npc_shop.
--- Keep this file empty to avoid duplicate hardcoded DarkRP jobs.
